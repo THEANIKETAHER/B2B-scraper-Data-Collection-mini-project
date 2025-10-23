@@ -1,6 +1,6 @@
 # B2B-scraper-Data-Collection-mini-project
-# Step 1: Get all project files
-# Step 2 Take all the .py files and folders from your repository (crawler/, etl/, eda/) and your requirements.txt.
+# Step 1: Get all project files from my repository.
+# Step 2 Take all the .py files and folders from my repository (crawler/, etl/, eda/) and your requirements.txt.
 # Step 3 Copy them to a folder on your local system. Example:C:\Users\YourName\Desktop\b2b-scraper\
  
 # Step 4: Open the folder in VS Code
@@ -23,13 +23,13 @@
                                               INFO:root:Saved: Soldering Iron 60W
                                               INFO:root:Saved: Mini Soldering Station
 
-# Step16: Output files will be created here: OUTPUT SEE HERE sample_output/products.csv
-                                           OUTPUT SEE HERE sample_output/products.jsonl
+# Step16: Output files will be created here: OUTPUT SEE HERE :- sample_output/products.csv
+                                           OUTPUT SEE HERE :- sample_output/products.jsonl
 
 # Step 17: Run the EDA (Exploratory Data Analysis)
 # Step 18: After the crawler finishes, then run: python -m eda.eda
 
-# Step 19: he script will analyze the CSV data and generate charts:eda/charts/price_distribution.png
+# Step 19: script will analyze the CSV data and generate charts like :eda/charts/price_distribution.png
                                                         eda/charts/top_locations.png
                                                         eda/charts/missing_values.png
 # Step 20: Check the Output
